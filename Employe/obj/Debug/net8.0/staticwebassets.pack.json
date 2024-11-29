@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\client-1.jpg",
+      "PackagePath": "staticwebassets\\images\\client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\client-2.jpg",
+      "PackagePath": "staticwebassets\\images\\client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\construction.svg",
+      "PackagePath": "staticwebassets\\images\\construction.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\professional-img.png",
+      "PackagePath": "staticwebassets\\images\\professional-img.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s1.png",
+      "PackagePath": "staticwebassets\\images\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s2.png",
+      "PackagePath": "staticwebassets\\images\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s3.png",
+      "PackagePath": "staticwebassets\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\tools.svg",
+      "PackagePath": "staticwebassets\\images\\tools.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Employe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Employe.props",
+      "PackagePath": "build\\Employe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Employe.props",
+      "PackagePath": "buildMultiTargeting\\Employe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Employe.props",
+      "PackagePath": "buildTransitive\\Employe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
