@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\source\\repos\\Employe\\Employe.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\source\\repos\\Employe\\Employe.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\Employe\\Employe.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj",
         "projectName": "Employe",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\Employe\\Employe.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\Employe\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

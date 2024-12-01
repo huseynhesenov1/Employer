@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QCux9DCCB7U/tDCEOnuZkuuWF6lXIcLvirl3TTXFZIQ=",
+  "Hash": "YALatLm6yVDEcjjGfYodEbZYGG5q1DRjSxkiOF6fhdA=",
   "Source": "Employe",
   "BasePath": "_content/Employe",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Employe\\wwwroot",
       "Source": "Employe",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\responsive.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.css.map",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\css\\style.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\about-img.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\about-img.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/about-img.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\client-1.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\client-1.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/client-1.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\client-2.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\client-2.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/client-2.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\construction.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\construction.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/construction.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\construction.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\logo.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\maintenance.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\maintenance.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/maintenance.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\maintenance.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\professional-img.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\professional-img.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/professional-img.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\professional-img.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s1.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s1.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s1.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s1.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s2.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s2.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s2.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s2.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\s3.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s3.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s3.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s3.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\slider-img.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\slider-img.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/slider-img.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\images\\tools.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\tools.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/tools.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tools.svg"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\custom.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
