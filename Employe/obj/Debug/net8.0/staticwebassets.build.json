@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jw90wZajQONKNpCam5slqrPz8D0LLqJ8Qg3ExmXCCHc=",
+  "Hash": "qk1ltC+6DrlXX+Rhdc7j4dagsC3fzelPsQ+sA0fMYAE=",
   "Source": "Employe",
   "BasePath": "_content/Employe",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Employe\\wwwroot",
       "Source": "Employe",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\css\\maps\\style.css.map",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/css/maps/style.css.map",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\css\\style.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\documentation\\documentation.html",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\documentation\\documentation.html",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/documentation/documentation.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\documentation\\documentation.html"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.eot",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff2",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.eot",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff2",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.eot",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff2",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.eot",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff2",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face1.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face10.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face11.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face12.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face13.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face14.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face15.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face16.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face17.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face18.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face19.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face2.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face20.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face21.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face22.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face23.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face24.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face25.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face26.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face27.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face3.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face4.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face5.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face6.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face7.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face8.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\faces\\face9.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\favicon.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\favicon.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/favicon.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\logo.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\logo.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/logo.svg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\images\\logo-mini.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\chart.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\chart.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/chart.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\Chart.min.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/Chart.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\dashboard.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\dashboard.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/dashboard.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\data-table.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\data-table.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/data-table.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\documentation.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\documentation.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/documentation.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\file-upload.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\file-upload.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/file-upload.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\hoverable-collapse.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\jquery.cookie.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\jquery.dataTables.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\off-canvas.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/off-canvas.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\tabs.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\tabs.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/tabs.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\js\\template.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\js\\template.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/js/template.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\partials\\_footer.html",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\partials\\_footer.html",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/partials/_footer.html",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_footer.html"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\partials\\_navbar.html",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\partials\\_navbar.html",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/partials/_navbar.html",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_navbar.html"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\partials\\_settings-panel.html",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/partials/_settings-panel.html",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_settings-panel.html"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\partials\\_sidebar.html",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\partials\\_sidebar.html",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/partials/_sidebar.html",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_sidebar.html"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_background.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_background.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_background.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_demo.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_demo.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_fonts.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_footer.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_footer.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_functions.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_functions.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_layouts.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_misc.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_misc.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_navbar.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_reset.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_reset.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_sidebar.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_typography.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_typography.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_utilities.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_variables.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_variables.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_badges.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_buttons.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_cards.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_forms.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_icons.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_lists.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\_tables.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\scss\\style.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\scss\\style.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/scss/style.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.svg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\responsive.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\style.css",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\style.css.map",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\css\\style.scss",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\css\\style.scss",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\about-img.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\about-img.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/about-img.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\client-1.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\client-1.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/client-1.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\client-2.jpg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\client-2.jpg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/client-2.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\construction.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\construction.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/construction.svg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\construction.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\logo.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\maintenance.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\maintenance.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/maintenance.svg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\images\\maintenance.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\professional-img.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\professional-img.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/professional-img.png",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\professional-img.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s1.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\s1.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s1.png",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s1.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s2.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\s2.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s2.png",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s2.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\s3.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\s3.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/s3.png",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s3.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\slider-img.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\slider-img.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/slider-img.png",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\images\\tools.svg",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\images\\tools.svg",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "images/tools.svg",
       "AssetKind": "All",
@@ -2696,10 +2696,67 @@
       "OriginalItemSpec": "wwwroot\\images\\tools.svg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\48.png",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
+      "BasePath": "_content/Employe",
+      "RelativePath": "ImageUpload/48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\48.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\48.pngbde4240a-9236-4b64-aea2-ffc0fbb6b14d",
+      "SourceId": "Employe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
+      "BasePath": "_content/Employe",
+      "RelativePath": "ImageUpload/48.pngbde4240a-9236-4b64-aea2-ffc0fbb6b14d",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\48.pngbde4240a-9236-4b64-aea2-ffc0fbb6b14d"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\48a6590bb8-2c44-418b-bd08-6ffbd95177c4.png",
+      "SourceId": "Employe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
+      "BasePath": "_content/Employe",
+      "RelativePath": "ImageUpload/48a6590bb8-2c44-418b-bd08-6ffbd95177c4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUpload\\48a6590bb8-2c44-418b-bd08-6ffbd95177c4.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\js\\bootstrap.js",
+      "SourceId": "Employe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2715,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\js\\custom.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -2734,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Employe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\",
       "BasePath": "_content/Employe",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",

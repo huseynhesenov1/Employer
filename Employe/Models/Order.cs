@@ -18,6 +18,7 @@ namespace Employe.Models
         public Master Master { get; set; }
 
         public string Problem { get; set; }
+        public string ImgPath { get; set; }
 
         public bool IsActive { get; set; }
         public DateTime? CreatedAt { get; set; }

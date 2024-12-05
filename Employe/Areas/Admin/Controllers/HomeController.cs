@@ -11,10 +11,12 @@ namespace Employe.Areas.Admin.Controllers
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public HomeController(AppDbContext appDbContext)
+        public HomeController(AppDbContext appDbContext, IWebHostEnvironment webHostEnvironment)
         {
             _context = appDbContext;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         public IActionResult Index()
@@ -37,6 +39,65 @@ namespace Employe.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(OrderVM ordervm)
         {
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Services = new SelectList(_context.Services, "Id", "Title");
+                ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
+                return View(ordervm);
+            }
+            if (ordervm.Img is null)
+            {
+                return View(ordervm);
+            }
+
+
+
+
+            string fileName = Path.GetFileNameWithoutExtension(ordervm.Img.FileName);
+            if (ordervm.Img.Length>2*1024*1024)
+            {
+                ModelState.AddModelError("Img", "Shekilin ölçüsü 2 Mb dan çox ola bilməz");
+            }
+
+            string[] AllowFormat = [".png", ".jpg", ".jpeg"];
+            string extension = Path.GetExtension(ordervm.Img.FileName);
+            bool isAlllowed = false;
+            foreach(var item in AllowFormat)
+            {
+                if (item == extension)
+                {
+                    isAlllowed = true;
+                    break;
+                    
+                }
+            }
+            if (!isAlllowed)
+            {
+                ModelState.AddModelError("Img", "Bu formata icaze yoxdur");
+                return View(ordervm);
+            }
+
+
+
+            string uploadPath = Path.Combine(_webHostEnvironment.WebRootPath, "ImageUpload");
+            if (!Directory.Exists(uploadPath))
+            {
+                Directory.CreateDirectory(uploadPath);
+            }
+
+            if (Path.Exists(Path.Combine(uploadPath, fileName+extension)))
+            {
+                fileName = fileName + Guid.NewGuid().ToString();
+            }
+
+            fileName = fileName + extension;
+            uploadPath = Path.Combine(uploadPath, fileName);    
+
+            using FileStream fileStream = new FileStream(uploadPath,FileMode.Create);
+            ordervm.Img.CopyTo(fileStream);
+
+
+
             if (ModelState.IsValid)
             {
                 Order order = new Order()
@@ -48,8 +109,8 @@ namespace Employe.Areas.Admin.Controllers
                     ServiceId = ordervm.ServiceId,
                     MasterId = ordervm.MasterId,
                     Problem = ordervm.Problem,
-                    IsActive = ordervm.IsActive,
                     CreatedAt = DateTime.Now,
+                    ImgPath = fileName
 
                 };
 
@@ -57,8 +118,7 @@ namespace Employe.Areas.Admin.Controllers
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.Services = new SelectList(_context.Services, "Id", "Title");
-            ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
+            
 
             return View(ordervm);
         }
@@ -80,7 +140,6 @@ namespace Employe.Areas.Admin.Controllers
                 ServiceId = updateOrder.ServiceId,
                 MasterId = updateOrder.MasterId,
                 Problem = updateOrder.Problem,
-                IsActive = updateOrder.IsActive,
                 CreatedAt = updateOrder.CreatedAt
             };
 
@@ -118,7 +177,6 @@ namespace Employe.Areas.Admin.Controllers
             updateOrder.ServiceId = orderVM.ServiceId;
             updateOrder.MasterId = orderVM.MasterId;
             updateOrder.Problem = orderVM.Problem;
-            updateOrder.IsActive = orderVM.IsActive;
             updateOrder.UpdatedAt = DateTime.Now;
 
             _context.Orders.Update(updateOrder);

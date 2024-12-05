@@ -20,6 +20,9 @@
                                            #
                                         </th>
                                         <th>
+                                            Service Img
+                                        </th>
+                                        <th>
                                             ClientName
                                         </th>
                                         <th>
@@ -41,9 +44,7 @@
                                             Problem
                                         </th>
 
-                                        <th>
-                                            IsActive
-                                        </th>
+                                        
                                         <th>
                                             CreatedAt
                                         </th>
@@ -70,6 +71,12 @@
                                     <tr>
                                         <td>
                                             @item.Id
+                                        </td>
+                                        <td>
+                                                <img src="~/ImageUpload/@item.ImgPath" />
+                                            
+                                                
+
                                         </td>
                                         <td>
                                                 @item.ClientName
@@ -99,10 +106,7 @@
                                                 @item.Problem
 
                                         </td>
-                                        <td>
-                                                @item.IsActive
-
-                                        </td>
+                                       
                                         <td>
                                                 @item.CreatedAt
 

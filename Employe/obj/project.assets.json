@@ -7601,11 +7601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Employe.csproj",
       "projectName": "Employe",
-      "projectPath": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\Employe.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Employe.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Desktop\\Employer\\Employe\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Employe
 build_property.RootNamespace = Employe
-build_property.ProjectDir = C:\Users\ACER\Desktop\Employer\Employe\
+build_property.ProjectDir = C:\Users\ACER\Desktop\Inance\Employer\Employe\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ACER\Desktop\Employer\Employe
+build_property.MSBuildProjectDirectory = C:\Users\ACER\Desktop\Inance\Employer\Employe
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/Home/Create.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/Home/Update.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/Home/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/About/Index.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/Contact/Index.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/Home/Index.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/Service/Index.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/Shared/_Layout.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/_ViewImports.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/Employer/Employe/Views/_ViewStart.cshtml]
+[C:/Users/ACER/Desktop/Inance/Employer/Employe/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -28,7 +28,7 @@ namespace Employe.ViewModels
 
         public string Problem { get; set; }
 
-        public bool IsActive { get; set; }
+        public IFormFile Img { get; set; }
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
     }
