@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\migrations\\20241201054316_initttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:migrations\\20241201054316_initttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\models\\orderphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:models\\orderphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,16 +31,36 @@
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241205223938_addimng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241205223938_addimng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\migrations\\20241205223938_addimng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:migrations\\20241205223938_addimng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|c:\\users\\acer\\desktop\\inance\\employer\\employe\\migrations\\20241208133733_mulitipletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335EE96E-CE93-4AB9-B5A6-305866D50B7B}|Employe.csproj|solutionrelative:migrations\\20241208133733_mulitipletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,51 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241205223938_addimng.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241205223938_addimng.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241205223938_addimng.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241205223938_addimng.cs",
-              "RelativeToolTip": "Migrations\\20241205223938_addimng.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:39:39.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T22:37:37.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:31:23.586Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -87,36 +80,189 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAewDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAWwFgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T22:22:58.651Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Utilities\\FileManager.cs",
+              "RelativeDocumentMoniker": "Utilities\\FileManager.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Utilities\\FileManager.cs",
+              "RelativeToolTip": "Utilities\\FileManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:46:04.512Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241201054316_initttables.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241201054316_initttables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241201054316_initttables.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241201054316_initttables.cs",
+              "RelativeToolTip": "Migrations\\20241201054316_initttables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:43:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:41:55.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:33:49.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\OrderPhoto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPhoto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\OrderPhoto.cs",
+              "RelativeToolTip": "Models\\OrderPhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:30:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrderVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\ViewModels\\OrderVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\OrderVM.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\ViewModels\\OrderVM.cs",
               "RelativeToolTip": "ViewModels\\OrderVM.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:16:03.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T22:16:03.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Create.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T22:15:18.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T22:15:18.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:37:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:31:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241208133733_mulitipletable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241208133733_mulitipletable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241208133733_mulitipletable.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241208133733_mulitipletable.cs",
+              "RelativeToolTip": "Migrations\\20241208133733_mulitipletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:37:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241205223938_addimng.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241205223938_addimng.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241205223938_addimng.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\20241205223938_addimng.cs",
+              "RelativeToolTip": "Migrations\\20241205223938_addimng.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:39:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:48:53.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:04:24.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:04:45.485Z"
             }
           ]
         }

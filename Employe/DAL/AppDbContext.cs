@@ -9,6 +9,7 @@ namespace Employe.DAL
         public DbSet<Service> Services { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Master> Masters { get; set; }
+        public DbSet<OrderPhoto>? OrderPhotos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

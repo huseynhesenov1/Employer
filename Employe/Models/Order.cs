@@ -19,8 +19,8 @@ namespace Employe.Models
 
         public string Problem { get; set; }
         public string ImgPath { get; set; }
-
         public bool IsActive { get; set; }
+        public List<OrderPhoto>? orderPhotos { get; set; }
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
 

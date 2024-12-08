@@ -1,5 +1,6 @@
 ﻿using Employe.DAL;
 using Employe.Models;
+using Employe.Utilities;
 using Employe.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -45,6 +46,7 @@ namespace Employe.Areas.Admin.Controllers
                 ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
                 return View(ordervm);
             }
+
             if (ordervm.Img is null)
             {
                 return View(ordervm);
@@ -53,48 +55,26 @@ namespace Employe.Areas.Admin.Controllers
 
 
 
-            string fileName = Path.GetFileNameWithoutExtension(ordervm.Img.FileName);
-            if (ordervm.Img.Length>2*1024*1024)
+
+
+            if (!ordervm.Img.CheckSize(3))
             {
                 ModelState.AddModelError("Img", "Shekilin ölçüsü 2 Mb dan çox ola bilməz");
             }
-
-            string[] AllowFormat = [".png", ".jpg", ".jpeg"];
-            string extension = Path.GetExtension(ordervm.Img.FileName);
-            bool isAlllowed = false;
-            foreach(var item in AllowFormat)
-            {
-                if (item == extension)
-                {
-                    isAlllowed = true;
-                    break;
-                    
-                }
-            }
-            if (!isAlllowed)
+            if (!ordervm.Img.CheckType())
             {
                 ModelState.AddModelError("Img", "Bu formata icaze yoxdur");
                 return View(ordervm);
             }
+            ordervm.Img.UpdloadImage(_webHostEnvironment.WebRootPath, "ImageUpload");
 
 
-
-            string uploadPath = Path.Combine(_webHostEnvironment.WebRootPath, "ImageUpload");
-            if (!Directory.Exists(uploadPath))
-            {
-                Directory.CreateDirectory(uploadPath);
-            }
-
-            if (Path.Exists(Path.Combine(uploadPath, fileName+extension)))
-            {
-                fileName = fileName + Guid.NewGuid().ToString();
-            }
-
+            string fileName = Path.GetFileNameWithoutExtension(ordervm.Img.FileName);
+            string extension = Path.GetExtension(ordervm.Img.FileName);
             fileName = fileName + extension;
-            uploadPath = Path.Combine(uploadPath, fileName);    
 
-            using FileStream fileStream = new FileStream(uploadPath,FileMode.Create);
-            ordervm.Img.CopyTo(fileStream);
+           
+
 
 
 
@@ -110,11 +90,24 @@ namespace Employe.Areas.Admin.Controllers
                     MasterId = ordervm.MasterId,
                     Problem = ordervm.Problem,
                     CreatedAt = DateTime.Now,
-                    ImgPath = fileName
+                    ImgPath = fileName,
+                    
+                    
 
                 };
 
                 _context.Orders.Add(order);
+
+                //foreach (IFormFile item in ordervm.Images)
+                //{
+                //    item.UpdloadImage(_webHostEnvironment.WebRootPath, "ImageUploadMultiple");
+                //    OrderPhoto orderPhoto = new OrderPhoto()
+                //    {
+                //        Order = order,
+                //        ImageUrl = ordervm.ImgPath
+                //    };
+                //    _context.OrderPhotos.Add(orderPhoto);
+                //}
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }

@@ -28,6 +28,9 @@ namespace Employe.ViewModels
 
         public string Problem { get; set; }
 
+        //public List<IFormFile>? Images { get; set; }
+        //public string ImgPath { get; set; }
+
         public IFormFile Img { get; set; }
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
