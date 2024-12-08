@@ -40,16 +40,20 @@ namespace Employe.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(OrderVM ordervm)
         {
+            //if (!ModelState.IsValid)
+            //{
+            //    ViewBag.Services = new SelectList(_context.Services, "Id", "Title");
+            //    ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
+            //    return View(ordervm);
+            //}
             if (!ModelState.IsValid)
             {
-                ViewBag.Services = new SelectList(_context.Services, "Id", "Title");
-                ViewBag.Masters = new SelectList(_context.Masters.Where(m => m.IsActive == true), "Id", "Name");
-                return View(ordervm);
+                return NotFound("moldstate valid deyik");
             }
 
             if (ordervm.Img is null)
             {
-                return View(ordervm);
+                return NotFound("img nuldur");
             }
 
 
@@ -72,12 +76,16 @@ namespace Employe.Areas.Admin.Controllers
             string fileName = Path.GetFileNameWithoutExtension(ordervm.Img.FileName);
             string extension = Path.GetExtension(ordervm.Img.FileName);
             fileName = fileName + extension;
+            foreach (var item in ordervm.Images)
+            {
+                
+                string fileName1 = Path.GetFileNameWithoutExtension(item.FileName);
+                string extension1 = Path.GetExtension(item.FileName);
+                fileName1 = fileName1 + extension1;
+            }
 
-           
 
-
-
-
+            
             if (ModelState.IsValid)
             {
                 Order order = new Order()
@@ -91,23 +99,20 @@ namespace Employe.Areas.Admin.Controllers
                     Problem = ordervm.Problem,
                     CreatedAt = DateTime.Now,
                     ImgPath = fileName,
-                    
-                    
-
                 };
 
                 _context.Orders.Add(order);
 
-                //foreach (IFormFile item in ordervm.Images)
-                //{
-                //    item.UpdloadImage(_webHostEnvironment.WebRootPath, "ImageUploadMultiple");
-                //    OrderPhoto orderPhoto = new OrderPhoto()
-                //    {
-                //        Order = order,
-                //        ImageUrl = ordervm.ImgPath
-                //    };
-                //    _context.OrderPhotos.Add(orderPhoto);
-                //}
+                foreach (IFormFile item in ordervm.Images)
+                {
+                    string imagesUrls =  item.UpdloadImage(_webHostEnvironment.WebRootPath, "ImageUploadMultiple");
+                    OrderPhoto orderPhoto = new OrderPhoto()
+                    {
+                        Order = order,
+                        ImageUrl = imagesUrls
+                    };
+                    _context.OrderPhotos.Add(orderPhoto);
+                }
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }

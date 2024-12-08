@@ -7,7 +7,7 @@ namespace Employe.Utilities
 {
     public static class FileManager
     {
-        public static void UpdloadImage(this IFormFile formFile, string envPath, string folder)
+        public static string UpdloadImage(this IFormFile formFile, string envPath, string folder)
         {
             string fileName = Path.GetFileNameWithoutExtension(formFile.FileName);
             string extension = Path.GetExtension(formFile.FileName);
@@ -28,11 +28,12 @@ namespace Employe.Utilities
 
             using FileStream fileStream = new FileStream(uploadPath, FileMode.Create);
             formFile.CopyTo(fileStream);
+            return fileName;
         }
 
-        public static bool CheckSize(this IFormFile formFile, int size )
+        public static bool CheckSize(this IFormFile formFile, int size)
         {
-            if (formFile.Length > size * 1024 * 1024 )
+            if (formFile.Length > size * 1024 * 1024)
             {
                 return false;
             }
@@ -54,6 +55,6 @@ namespace Employe.Utilities
             }
             return isAlllowed;
         }
-        
+
     }
 }

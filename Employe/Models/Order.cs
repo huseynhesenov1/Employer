@@ -4,7 +4,6 @@ namespace Employe.Models
 {
     public class Order
     {
-       
         public int Id { get; set; }
         public string ClientName { get; set; }
         public string ClientSurname { get; set; }
@@ -18,12 +17,11 @@ namespace Employe.Models
         public Master Master { get; set; }
 
         public string Problem { get; set; }
-        public string ImgPath { get; set; }
+        public string? ImgPath { get; set; }
         public bool IsActive { get; set; }
         public List<OrderPhoto>? orderPhotos { get; set; }
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
-
 
     }
 }
