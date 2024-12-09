@@ -1,4 +1,6 @@
 using Employe.DAL;
+using Employe.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Employe
@@ -8,15 +10,22 @@ namespace Employe
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+           
             builder.Services.AddControllersWithViews();
+            builder.Services.AddIdentity<AppUser,IdentityRole>(
+                op =>
+                {
+                    op.Password.RequiredLength = 4;
+                    op.User.RequireUniqueEmail = true;
 
+                }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
             builder.Services.AddDbContext<AppDbContext>(
                options =>
                options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
             var app = builder.Build();
             app.UseStaticFiles();
-
+            app.UseAuthentication();
 
 
             app.MapControllerRoute(

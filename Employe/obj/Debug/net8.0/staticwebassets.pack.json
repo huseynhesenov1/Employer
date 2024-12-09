@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\huse.jpeg",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\huse.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\iki.png",
       "PackagePath": "staticwebassets\\ImageUploadMultiple\\iki.png"
     },
@@ -13,8 +17,16 @@
       "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (11).png"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (11)807714d5-1c8a-415c-b36b-4747089d5d12.png",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (11)807714d5-1c8a-415c-b36b-4747089d5d12.png"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (11)e6ea89f7-ea72-4366-8648-86be26d43844.png",
       "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (11)e6ea89f7-ea72-4366-8648-86be26d43844.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (11)ec662533-2719-45cd-9f6e-221a3dded80b.png",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (11)ec662533-2719-45cd-9f6e-221a3dded80b.png"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (11)fbee84c6-c06b-46bf-b8a7-2d0127f9ba73.png",
@@ -25,8 +37,20 @@
       "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (3).png"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (3)a2354529-ce9c-4f3e-9afe-95590041c9fa.png",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (3)a2354529-ce9c-4f3e-9afe-95590041c9fa.png"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (7).png",
       "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (7).png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (7)a5e67ab6-103e-4333-9d81-9c532ca87055.png",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (7)a5e67ab6-103e-4333-9d81-9c532ca87055.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (7)a9476cfe-59ce-4b93-8d02-dc72f623718f.png",
+      "PackagePath": "staticwebassets\\ImageUploadMultiple\\image (7)a9476cfe-59ce-4b93-8d02-dc72f623718f.png"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUploadMultiple\\image (7)b35600c9-a774-4a18-81a1-aa03a9e31b29.png",
@@ -65,6 +89,10 @@
       "PackagePath": "staticwebassets\\ImageUpload\\iki.png"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\iki4765ef72-9e61-46bb-99cb-cf3a5c8562ff.png",
+      "PackagePath": "staticwebassets\\ImageUpload\\iki4765ef72-9e61-46bb-99cb-cf3a5c8562ff.png"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\image (3).png",
       "PackagePath": "staticwebassets\\ImageUpload\\image (3).png"
     },
@@ -75,6 +103,10 @@
     {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\image (7).png",
       "PackagePath": "staticwebassets\\ImageUpload\\image (7).png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\image (7)bd12423d-d5f3-4b1a-869d-45658b76ec68.png",
+      "PackagePath": "staticwebassets\\ImageUpload\\image (7)bd12423d-d5f3-4b1a-869d-45658b76ec68.png"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\Inance\\Employer\\Employe\\wwwroot\\ImageUpload\\main.png",
